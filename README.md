@@ -13,6 +13,8 @@ Some of the libaries/technologies used in this project include:
 - React Router - For routing within the app
 - Axios - For HTTP Requests and Responses etc.
 
+## Installation
+
 You can fork and clone the project and run `npm install` to install the external dependencies. This project has been tested with node v16.12.1 and npm 8.1.2.
 
 ## Helpful commands
