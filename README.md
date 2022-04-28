@@ -1,4 +1,4 @@
-# LumiQualis Frontend Developer Assessment
+# Frontend Developer Assessment
 This is a replica  project of the [Nasa Movies Nelify App](https://nasa-movies.netlify.app/)
 
 This project is developed in ReactJS and TailwindCSS. The app consists of the following pages:
