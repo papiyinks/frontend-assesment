@@ -25,3 +25,4 @@ You have the following CLI commands available:
 
 - `npm run build` - Builds the project for production deployment
 
+- Network testing
